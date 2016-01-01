@@ -4,7 +4,7 @@
 
 Submitted by: **Michael Hammond**
 
-Time spent: **X** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -26,13 +26,16 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/hjQ1H7z.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had limited access to Xcode so I was unable to implement the optional steps, and my video walkthrough was made from screenshots taken during development on the Xcode machine, due to time constraints. I took the code and images home to finish on my windows machine.
+
+I had fully implemented the settings menu, and changeable tip percents on the segmented buttons, however I believe due to the animations I caused the app to hang at the title screen, so I chose to revert it to the working main branch and abandon the animated fork until later.
 
 ## License
 
